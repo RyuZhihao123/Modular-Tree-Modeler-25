@@ -1,15 +1,39 @@
 # ModularTreeModeler
 
+<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png" alt="Teaser" style="width:500px;"/>
 
-It will be updated within 1 day.
+Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D plant models in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
-Program Folder: [link](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
+This repository contains a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
 
-BaiduYun Link.
+🟢 [[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing): This short video is for fast preview.
 
-Demo video.
+🟠 [[Program Download]](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler): Please download the entire folder to execute the program.
+
+## Quick Start
+
+🟡 [[Full Instruction Video]](): We strongly recommend that all users carefully watch this long instruction video to understand the step-by-step process of designing a tree species.
 
 
-<img src="https://github.com/RyuZhihao123/RyuZhihao123.github.io/blob/main/images/project_graphtree.png" alt="Teaser" style="width:500px;"/>
+
+### 1. Usage Instructions:
+
+(1) Open the ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
+
+(2) Open the ``GraphTreeModeler.exe``, which is the window for visualization of 3D results. 
+Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. Please note that, the two exes must be opened in this order.
+
+(2) Design Graphs. Below are the 
+
+- LeftMouseButtion: Select an existing node.
+- Ctrl + LeftMouseButtion: Add a new node.
+- Alt + LeftMouseButtion: Connect edges between two nodes.
+- Backspace: Delete the selected node.
+
+<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/graph.png" alt="Graph" style="width:500px;"/>
+
+### 2. Results.
+
+
 
 
