@@ -1,6 +1,6 @@
 # ModularTreeModeler
 
-<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png" alt="Teaser" style="width:500px;"/>
+<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png" alt="Teaser" style="width:400px;"/>
 
 Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D plant models in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
