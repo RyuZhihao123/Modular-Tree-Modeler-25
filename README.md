@@ -1,6 +1,6 @@
 # ModularTreeModeler
 
-<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png" alt="Teaser" style="width:400px;"/>
+![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png)
 
 Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D plant models in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
@@ -22,14 +22,15 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 (2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. Please note that, the two exes must be opened in this order.
 
-(2) Design Graphs. Below are the 
+(2) Design Graphs. Now you can freely use the following operations (hot keys)
+ to gradually customize your own graphs!
 
 - LeftMouseButtion: Select an existing node.
 - Ctrl + LeftMouseButtion: Add a new node.
 - Alt + LeftMouseButtion: Connect edges between two nodes.
 - Backspace: Delete the selected node.
 - 
-![Graph](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/graph.png)
+![Graph](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png)
 
 ### 2. Results.
 
