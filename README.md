@@ -6,7 +6,7 @@ Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D pl
 
 This repository contains a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
 
-📺 **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing)**: This short video is for fast preview. 🔥🔥
+📺 **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing): This is a short demo video for fast preview.** 🔥🔥
 
 🟠 [[Program Download]](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler): Please download the entire folder to execute the program.
 
@@ -17,6 +17,8 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 
 ### Usage Instructions:
+
+(0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
 
 (1) Open the ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
 
