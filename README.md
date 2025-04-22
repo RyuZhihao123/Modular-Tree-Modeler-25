@@ -29,9 +29,8 @@ This repository contains a more advanced 3D modeling system, which enables users
 - Ctrl + LeftMouseButtion: Add a new node.
 - Alt + LeftMouseButtion: Connect edges between two nodes.
 - Backspace: Delete the selected node.
-- 
-![Graph](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png)
 
+<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png" alt="Interfaces" style="width:700px;"/>
 ### 2. Results.
 
 ![Results](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/results.png)
