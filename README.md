@@ -20,8 +20,7 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 (1) Open the ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
 
-(2) Open the ``GraphTreeModeler.exe``, which is the window for visualization of 3D results. 
-Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. Please note that, the two exes must be opened in this order.
+(2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. Please note that, the two exes must be opened in this order.
 
 (2) Design Graphs. Below are the 
 
