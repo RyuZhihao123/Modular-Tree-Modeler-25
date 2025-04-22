@@ -34,7 +34,7 @@ seed 1914
 pos 207 446
 ---
 totalLen 10
-radiusMax 0.1
+radiusMax 0.18
 radiusExpandFactor 1.2
 angleTangential 10
 gravitySpinAngle 10
