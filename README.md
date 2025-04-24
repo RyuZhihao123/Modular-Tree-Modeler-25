@@ -12,7 +12,7 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 ## Quick Start
 
-🟡 [[Long Instruction Video]](https://drive.google.com/file/d/1s-gSLQ3Q_aJ1kJtaUB67LFJU-k63bnEf/view?usp=sharing): We strongly recommend that all users carefully watch this long instruction video to understand the step-by-step process of designing a tree species.
+🟡 [[Long Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing): We strongly recommend that all users carefully watch this long instruction video to understand the step-by-step process of designing a tree species.
 
 
 
