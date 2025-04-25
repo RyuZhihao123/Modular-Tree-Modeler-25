@@ -17,7 +17,7 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 
 ### Usage Instructions:
-This software is only runable in Windows (we successfully tested on Win 10 and Win 11).
+This software is only runable in Windows PCs (we successfully tested on Win 10 and Win 11).
 
 (0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
 
