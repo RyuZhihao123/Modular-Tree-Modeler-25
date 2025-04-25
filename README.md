@@ -23,7 +23,10 @@ This software is only runable in Windows (we tested on Win 10 and Win 11 success
 
 (1) Open the ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
 
-(2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. Please note that, the two exes must be opened in this order.
+(2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for the interactive design of species graphs. 
+
+- The second exe will take around 6 seconds for initialization. Please be patient to wait.
+- **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
 (2) Design Graphs. Now you can freely use the following operations (hot keys)
  to gradually customize your own graphs!
