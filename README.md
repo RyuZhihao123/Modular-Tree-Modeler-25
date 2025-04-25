@@ -29,7 +29,7 @@ This software is only runable in Windows PCs (we successfully tested on Win 10 a
 - **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
 (2) Design Graphs. Now you can freely use the following operations (hot keys)
- to gradually customize your own graphs! Watch the 5-min instruction video to see how to operate them.
+ to gradually customize your own graphs! Watch the 5-min instruction video above to see how to operate them.
 
 - ``Left MouseButtion``: Select/move an existing node.
 - ``Ctrl`` + ``Left MouseButtion``: Add a new node.
