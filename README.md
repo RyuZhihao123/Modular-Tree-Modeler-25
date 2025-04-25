@@ -31,10 +31,10 @@ This software is only runable in Windows (we tested on Win 10 and Win 11 success
 (2) Design Graphs. Now you can freely use the following operations (hot keys)
  to gradually customize your own graphs! Watch the 5-min instruction video to see how to operate them.
 
-- ``Left MouseButtion``: Select an existing node.
+- ``Left MouseButtion``: Select/move an existing node.
 - ``Ctrl`` + ``Left MouseButtion``: Add a new node.
 - ``Alt`` + ``Left MouseButtion``: Connect edges between two nodes.
-- ``Backspace``: Delete the selected node.
+- ``Backspace``: Delete a selected node.
 
 <img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png" alt="Interfaces" style="width:700px;"/>
 
