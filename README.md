@@ -29,11 +29,11 @@ This software is only runable in Windows (we tested on Win 10 and Win 11 success
 - **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
 (2) Design Graphs. Now you can freely use the following operations (hot keys)
- to gradually customize your own graphs!
+ to gradually customize your own graphs! Watch the 5-min instruction video to see how to operate them.
 
-- ``LeftMouseButtion``: Select an existing node.
-- ``Ctrl`` + ``LeftMouseButtion``: Add a new node.
-- ``Alt`` + ``LeftMouseButtion``: Connect edges between two nodes.
+- ``Left MouseButtion``: Select an existing node.
+- ``Ctrl`` + ``Left MouseButtion``: Add a new node.
+- ``Alt`` + ``Left MouseButtion``: Connect edges between two nodes.
 - ``Backspace``: Delete the selected node.
 
 <img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png" alt="Interfaces" style="width:700px;"/>
