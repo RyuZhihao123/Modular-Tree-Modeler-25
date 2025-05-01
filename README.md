@@ -6,30 +6,32 @@ Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D pl
 
 This repository contains a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
 
-📺 **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing): This is a short demo video for fast preview.** 🔥🔥
+📺 **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing): This is a short demo video for fast preview. (Recommend watching it before starting🔥🔥!)**
 
 🟠 [[Program Download]](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler): Please download the entire folder to execute the program.
 
 ## Quick Start
 
-🟡 Before starting, we strongly recommend that all users carefully watch this [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to understand the step-by-step process of designing a simple tree species.
+📺 Before starting, we strongly recommend that all users carefully watch this [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to understand the step-by-step process of designing a simple tree species.
 
-
-
-### Usage Instructions:
 This software is only runable on Windows PCs (we successfully tested on Win 10 and Win 11).
+
+### 🌳 Create Trees using Existing Species Templates:
 
 (0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
 
 (1) Open the ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
 
-(2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for interactive design of species graphs. 
+(2) Then open the ``GraphTreeModeler_UI.exe``, which is the user interface for interactive design of species graphs. Please note that:
 
 - The second exe will take around 6 seconds for initialization. Please be patient to wait.
 - **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
-(2) Design Graphs. Now you can freely use the following operations (hot keys)
- to gradually customize your own graphs! Watch the 5-min instruction video above to see how to operate them.
+(3) For convenience, we've already provided several pre-created species templates under this [path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can directly use for a quick start. To load them, go to the ``Menu Bar`` of the second user interface, and click "File" -> "Load Graph". Then, after choosing a template file in the dialog and pressing the ``Generate New`` button. our system will automatically generate a nice-looking 3D tree model.
+
+### 🌳 Design Your Own Species From Scratch:
+
+After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphics! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system:
 
 - ``Left MouseButtion``: Select/move an existing node.
 - ``Ctrl`` + ``Left MouseButtion``: Add a new node.
