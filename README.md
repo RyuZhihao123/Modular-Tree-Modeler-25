@@ -34,7 +34,9 @@ This software is only runable on Windows PCs (we successfully tested on Win 10 a
 
 ### 🌳 Design Your Own Species From Scratch:
 
-After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphics! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system:
+After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphics! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
+
+FYI, the main operations and hotkeys are listed below:
 
 - ``Left MouseButtion``: Select/move an existing node.
 - ``Ctrl`` + ``Left MouseButtion``: Add a new node.
