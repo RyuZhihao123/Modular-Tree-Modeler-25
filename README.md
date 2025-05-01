@@ -22,12 +22,15 @@ This software is only runable on Windows PCs (we successfully tested on Win 10 a
 
 (1) Open the first program ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
 
-(2) Then open the second program ``GraphTreeModeler_UI.exe``, which is the user interface for interactive design of species graphs. Please note that:
+(2) Then open the second program ``GraphTreeModeler_UI.exe``, which is the core user interface for interactively designing species graphs. Please note that:
 
-- The second exe will take around 6 seconds for initialization. Please be patient to wait.
+- The second exe often takes around 6 seconds for initialization. Please be patient to wait.
 - **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
-(3) For convenience, we've already provided several pre-created species templates under this [path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can directly use for a quick start. To load them, go to the ``Menu Bar`` of the second user interface, and click "File" -> "Load Graph". Then, after choosing a template file in the dialog and pressing the ``Generate New`` button. our system will automatically generate a nice-looking 3D tree model.
+(3) For convenience, we've provided several pre-created species templates under this [folder path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can use for quickly creating some 3D tree models. 
+
+- To load them, go to the ``Menu Bar`` of the second program (``GraphTreeModeler_UI``), and click "File" -> "Load Graph". Then, after selecting a template file and pressing the ``Generate New`` button. our system will automatically generate a nice-looking 3D tree.
+- You can also refer to the **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing)** to see how to load the templates. **(Recommend!)**
 
 ### 🌳 Design Your Own Species From Scratch:
 
