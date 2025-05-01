@@ -20,7 +20,7 @@ This software is only runable on Windows PCs (we successfully tested on Win 10 a
 
 (0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
 
-(1) Open the first program ``GraphTreeModeler.exe``. This is the window for visualization of 3D results. 
+(1) Open the first program ``GraphTreeModeler.exe``, which is the window for visualization of 3D results. 
 
 (2) Then open the second program ``GraphTreeModeler_UI.exe``, which is the core user interface for interactively designing species graphs. Please note that:
 
