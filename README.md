@@ -29,7 +29,7 @@ This software is only runable on Windows PCs (we successfully tested on Win 10 a
 
 (3) For convenience, we've provided several pre-created species templates under this [folder path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can use for quickly creating some 3D tree models. 
 
-- To load them, go to the ``Menu Bar`` of the second program (i.e., ``GraphTreeModeler_UI``), and click "File" -> "Load Graph". Then, after selecting a template file and pressing the ``Generate New`` button, our system will automatically generate a nice-looking 3D tree within half a second.
+- To load them, go to the **``Menu Bar``** of the second program (i.e., ``GraphTreeModeler_UI``), and click **``File``** -> **``Load Graph``**. Then, after selecting a template file and pressing the ``Generate New`` button, our system will automatically generate a nice-looking 3D tree within half a second.
 - You can also refer to the **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing)** to see how to load the templates. **(Recommend!)**
 
 ### 🌳 Design Your Own Species From Scratch:
