@@ -12,7 +12,7 @@ This repository contains a more advanced 3D modeling system, which enables users
 
 🟠 [[Program Download]](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler): Please download the entire folder to execute the program.
 
-BTW, I am continuing adding new features to this software. If you have any suggestions or requirements, please feel free to raise an issue!
+BTW, I am continuing adding new features to this software. If you have any suggestions or requirements, please feel free to raise an issue! ^_^
 
 ## Quick Start
 
