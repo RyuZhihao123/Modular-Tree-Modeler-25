@@ -2,7 +2,7 @@
 
 ![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/1.png)
 
-Procedural modeling (e.g., L-systems) is a classic method for synthesizing 3D plant models in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
+Procedural modeling is a classic method for synthesizing 3D plant models in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
 This repository contains a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
 
