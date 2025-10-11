@@ -1,6 +1,7 @@
 # ModularTreeModeler
-![Results](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/figure_gallery.png)
-
+<p align="center">
+<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/figure_gallery.png" width="60%">
+</p>
 
 Efficient generation of customized 3D plant models is an important problem in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
