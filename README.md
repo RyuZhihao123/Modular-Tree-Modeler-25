@@ -18,7 +18,10 @@ BTW, I am continuing adding new features to this software. If you have any sugge
 
 
 
-https://github.com/user-attachments/assets/adf70183-2e64-4916-a704-fe9e1053edfc
+
+https://github.com/user-attachments/assets/f0d309b6-fb10-4030-9ec2-0a2231a6d7a9
+
+
 
 
 
