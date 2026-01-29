@@ -81,32 +81,58 @@ FYI, the main operations and hotkeys are listed below:
 - ``Alt`` + ``Left MouseButtion``: Connect edges between two nodes.
 - ``Backspace``: Delete a selected node.
 
-<img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png" alt="Interfaces" style="width:700px;"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyuZhihao123/Modular-Tree-Modeler-25/main/Figures/interfaces.png"
+       alt="Interfaces"
+       width="700">
+  <br>
+  <em>Figure 1. The user interface.</em>
+</p>
 
 
 ### 1.3 Diverse Data Modalities are supported
 Our system allows for automatically exporting diverse data modalities. Some are almost impossible for humans to manually annotated (e.g., skeletons, and leaf masks).
-![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/fig_representation.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyuZhihao123/Modular-Tree-Modeler-25/main/Figures/fig_representation.png"
+       alt="Data representation">
+  <br>
+  <em>Figure 2. Example data modalities supported by our system.</em>
+</p>
 
 
 
 
 ## 3. License Version (Advanced)
 
-**The Above Version is fully for Free Download and Experience, which includes most of core features for designing the structure of 3D tree models.**
+- **The above version is totally for Free Download and Experience**, which includes most of core features for designing the structure of 3D tree models.
 
-In addition, we have also developed an ``advanced version`` for more professional species design, which supports more enhanced capabilities beyond modular graphs, including but no limited to:
+- **In addition, we have also developed an ``advanced version`` for more professional species design**, which supports more enhanced capabilities beyond modular graphs, including but no limited to (as shown in the following figures:
 
-- Deeper paramatric control of more botanical phenomenons (Apical Domaninace, Gravity, Light competition, Shade, etc).
-- Better support for smaller farm/house plants
-- Flexible control of leaf structures.
-- 3D Fruit Modeling (e.g., Apples, Pears, Grapes, Tomatos).
-- A more interactive user interface.
-- Forest-level scene creation.
-
-**This enhanced version is a very important property for me to do exclusive research, thus a license is required for outsiders to use.** But if you're interested in experience, commercial use, or even research collabration, please directly reach me out via email (liuzh96@outlook.com).
+  - Deeper paramatric control of more botanical phenomenons (Apical Domaninace, Gravity, Light competition, Shade, etc).
+  - Better support for smaller farm/house plants
+  - Flexible control of leaf structures.
+  - 3D Fruit Modeling (e.g., Apples, Pears, Grapes, Tomatos).
+  - A more interactive user interface.
+  - Forest-level scene creation.
 
 
-![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/fig_multi.png)
+🎈 If you're interested in experience, commercial use, or even research collabration, please directly reach me out via email (liuzh96@outlook.com).
+This enhanced version is a very important property for us to do exclusive research (and we made money on it), thus a license is required for outsiders to use.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyuZhihao123/Modular-Tree-Modeler-25/main/Figures/figure_advanced_features.png"
+       alt="Advanced features">
+  <br>
+  <em>Figure 3. Advanced features of the license-required modular plant modeling system.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyuZhihao123/Modular-Tree-Modeler-25/main/Figures/fig_multi.png"
+       alt="Forest generation">
+  <br>
+  <em>Figure 4. Forest generation and its corresponding modalities.</em>
+</p>
+
 
 
