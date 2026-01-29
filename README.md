@@ -52,23 +52,27 @@ https://github.com/user-attachments/assets/f0d309b6-fb10-4030-9ec2-0a2231a6d7a9
 
 ### 🌳 Create Trees using Existing Species Templates:
 
-(0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
+For easy start, we provided some species templates that you can directly load and see the modeling results.
 
-(1) Open the first program ``GraphTreeModeler.exe``, which is the window for visualization of 3D results. 
+(Step-0) Download the program from [this folder](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler).
 
-(2) Then open the second program ``GraphTreeModeler_UI.exe``, which is the core user interface for interactively designing species graphs. Please note that:
+(Step-1) Open the first program ``GraphTreeModeler.exe``, which is the window for visualization of 3D results.
 
+(Step-2) Then open the second program ``GraphTreeModeler_UI.exe``, which is the core user interface for interactively designing species graphs. 
+
+Please note that:
 - The second exe often takes around 6 seconds for initialization. Please be patient to wait.
 - **You must make sure to sequentially open two exes in this order.** They have dependencies thus cannot be opened in an inverse order.
 
-(3) For convenience, we've provided several pre-created species templates under this [folder path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can use for quickly creating some 3D tree models. 
+(Step-3) For convenience, we've provided several pre-created species templates under this [folder path](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler/SavedGraphs), which you can use for quickly creating some 3D tree models. 
 
 - To load them, go to the **``Menu Bar``** of the second program (i.e., ``GraphTreeModeler_UI``), and click **``File``** -> **``Load Graph``**. Then, after selecting a template file and pressing the ``Generate New`` button, our system will automatically generate a nice-looking 3D tree within half a second.
 - You can also refer to the **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing)** to see how to load the templates. **(Recommend!)**
 
 ### 🌳 Design Your Own Species From Scratch:
 
-After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphs! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
+
+You are also allowed to freely design your own species! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
 
 FYI, the main operations and hotkeys are listed below:
 
@@ -89,9 +93,9 @@ Our system allows for automatically exporting diverse data modalities. Some are 
 
 ## 3. License Version (Advanced)
 
-The above version is fully for free download and experience, which includes most of core features for designing the structure of 3D tree models.
+**The Above Version is fully for Free Download and Experience, which includes most of core features for designing the structure of 3D tree models.**
 
-In addition, we have also developed a advanced version for more professional species design, which supports more enhanced capabilities beyond modular graphs, including but no limited to:
+In addition, we have also developed an ``advanced version`` for more professional species design, which supports more enhanced capabilities beyond modular graphs, including but no limited to:
 
 - Deeper paramatric control of more botanical phenomenons (Apical Domaninace, Gravity, Light competition, Shade, etc).
 - Better support for smaller farm/house plants
