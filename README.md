@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/f0d309b6-fb10-4030-9ec2-0a2231a6d7a9
 
 
 
-### 🌳 Create Trees using Existing Species Templates:
+### 🌳 [A] Create Trees using Existing Species Templates:
 
 For easy start, we provided some species templates that you can directly load and see the modeling results.
 
@@ -69,7 +69,7 @@ Please note that:
 - To load them, go to the **``Menu Bar``** of the second program (i.e., ``GraphTreeModeler_UI``), and click **``File``** -> **``Load Graph``**. Then, after selecting a template file and pressing the ``Generate New`` button, our system will automatically generate a nice-looking 3D tree within half a second.
 - You can also refer to the **[[Preview Video]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing)** to see how to load the templates. **(Recommend!)**
 
-### 🌳 Design Your Own Species From Scratch:
+### 🌳 [B] Design Your Own Species From Scratch:
 
 
 You are also allowed to freely design your own species! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
