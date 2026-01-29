@@ -107,14 +107,14 @@ Our system allows for automatically exporting diverse data modalities. Some are 
 - **The above version is totally for Free Download and Experience**, which includes most of core features for designing the structure of 3D tree models.
 
 - **In addition, we have also developed an ``advanced version`` for more professional species design**, which supports more enhanced capabilities beyond modular graphs, including but no limited to (as shown in the following figures:
-
-  - Deeper paramatric control of more botanical phenomenons (Apical Domaninace, Gravity, Light competition, Shade, etc).
+```
+  - Deeper paramatric control of more botanical phenomenons (e.g., Apical Domaninace, Gravity, Light competition, Shade, etc).
   - Better support for smaller farm/house plants
   - Flexible control of leaf structures.
   - 3D Fruit Modeling (e.g., Apples, Pears, Grapes, Tomatos).
   - A more interactive user interface.
   - Forest-level scene creation.
-
+```
 
 🎈 If you're interested in experience, commercial use, or even research collabration, please directly reach me out via email (liuzh96@outlook.com).
 This enhanced version is a very important property for us to do exclusive research (and we made money on it), thus a license is required for outsiders to use.
