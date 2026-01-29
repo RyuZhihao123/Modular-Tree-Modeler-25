@@ -1,11 +1,28 @@
-# ModularTreeModeler
+# ModularPlantModeler
+
+
+
+
+
+
+
+## Contents
+1. [Modular Plant Modeler (Free Version)](#1-modular-plant-modeler-free-version)
+3. [License Version (Advanced)](#3-license-version-advanced)
+
+
 <p align="center">
 <img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/figure_gallery.png" width="70%">
 </p>
 
+
+## 1. Modular Plant Modeler (Free Version)
+
+### 1.1. Introduction
+
 Efficient generation of customized 3D plant models is an important problem in computer graphics. However, existing procedural methods always rely on algorithmically writing complex structural rules, thus very difficult and unintuitive for non-experts to learn.
 
-This repository contains a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
+This repository introduces a more advanced 3D modeling system, which enables users to **intuitively** manipulate a so-called **``Modular Graph``** to easily design and obtain diverse 3D plant models. 
 
 📺 **[[Preview Video (1min)]](https://drive.google.com/file/d/1FugtnOsYm2L_HkJawwiUUKoe6aQs5e93/view?usp=sharing): Short demo video for fast preview. (Recommend watching it before starting🔥🔥!)**
 
@@ -16,7 +33,11 @@ This repository contains a more advanced 3D modeling system, which enables users
 BTW, I am continuing adding new features to this software. If you have any suggestions or requirements, please feel free to raise an issue! ^_^.
 
 
+### 1.2. Quick Start
 
+📺 Before starting, we also strongly recommend that all users carefully watch this [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to understand the step-by-step process of designing a simple tree species.
+
+This software ([download link](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/tree/main/GraphTreeModeler)) is only runable on Windows PCs (we successfully tested on Win 10 and Win 11).
 
 
 https://github.com/user-attachments/assets/f0d309b6-fb10-4030-9ec2-0a2231a6d7a9
@@ -27,11 +48,7 @@ https://github.com/user-attachments/assets/f0d309b6-fb10-4030-9ec2-0a2231a6d7a9
 
 
 
-## Quick Start
 
-📺 Before starting, we also strongly recommend that all users carefully watch this [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to understand the step-by-step process of designing a simple tree species.
-
-This software is only runable on Windows PCs (we successfully tested on Win 10 and Win 11).
 
 ### 🌳 Create Trees using Existing Species Templates:
 
@@ -51,7 +68,7 @@ This software is only runable on Windows PCs (we successfully tested on Win 10 a
 
 ### 🌳 Design Your Own Species From Scratch:
 
-After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphics! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
+After executing the two programs following the steps (1) and (2) above, you can also freely design your own species graphs! Please watch the [[5-min Instruction Video]](https://drive.google.com/file/d/1uOwghzsHS2jrZXc8RHVIOitZZubseMT-/view?usp=sharing) to see how to practically use the system.
 
 FYI, the main operations and hotkeys are listed below:
 
@@ -63,10 +80,29 @@ FYI, the main operations and hotkeys are listed below:
 <img src="https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/interfaces.png" alt="Interfaces" style="width:700px;"/>
 
 
-## More.
-
-Our system can be used to automatically generate large 3D datasets in various data formats/representations.
+### 1.3 Diverse Data Modalities are supported
+Our system allows for automatically exporting diverse data modalities. Some are almost impossible for humans to manually annotated (e.g., skeletons, and leaf masks).
 ![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/fig_representation.png)
+
+
+
+
+## 3. License Version (Advanced)
+
+The above version is fully for free download and experience, which includes most of core features for designing the structure of 3D tree models.
+
+In addition, we have also developed a advanced version for more professional species design, which supports more enhanced capabilities beyond modular graphs, including but no limited to:
+
+- Deeper paramatric control of more botanical phenomenons (Apical Domaninace, Gravity, Light competition, Shade, etc).
+- Better support for smaller farm/house plants
+- Flexible control of leaf structures.
+- 3D Fruit Modeling (e.g., Apples, Pears, Grapes, Tomatos).
+- A more interactive user interface.
+- Forest-level scene creation.
+
+**This enhanced version is a very important property for me to do exclusive research, thus a license is required for outsiders to use.** But if you're interested in experience, commercial use, or even research collabration, please directly reach me out via email (liuzh96@outlook.com).
+
+
 ![Teaser](https://github.com/RyuZhihao123/Modular-Tree-Modeler-25/blob/main/Figures/fig_multi.png)
 
 
